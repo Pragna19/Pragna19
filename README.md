@@ -1,4 +1,6 @@
-![WhatsApp Image 2023-07-10 at 8 32 25 PM](https://github.com/Pragna19/Pragna19/assets/84904390/2baab536-9429-4061-961a-ee70b4c4bd8f)
+
+![Systems and technology programming company logo](https://github.com/Pragna19/Pragna19/assets/84904390/3110250e-6c3a-486a-b533-5a95f58fef20)
+
 # Hi there! 👋 I'm Pragna
 
 I'm a passionate Electronics and Computer Engineering student at Vellore Institute of Technology, Chennai. Welcome to my GitHub profile!
